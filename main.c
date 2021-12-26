@@ -6,6 +6,7 @@ int main()
 {
 	while(1)
 		{
+
 			printf("hello \n \a");
 			usleep(1000000);
 		}
